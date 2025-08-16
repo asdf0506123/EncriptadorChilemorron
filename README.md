@@ -1,10 +1,5 @@
 # EncriptadorChilemorron
-A Sanrio cinnamon roll encryptor with the option to save to text files.
-
-# CinnamonRollEncryptor
-
-A simple Java encryption tool.  
-It can encrypt and decrypt messages using basic encryption messages.
+A Sanrio cinnamon roll encryptor with the option to save to text files. It can encrypt and decrypt messages using basic encryption messages. 🐰
 
 ## Screenshots
 ![SS1](ss1.png)
